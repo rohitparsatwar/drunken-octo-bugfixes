@@ -8,7 +8,7 @@ import java.io.IOException;
 public class CopyBytes {
 
 	/**
-	 * dshfkshdkhskfhdsfsdfdsfsdfsdfs
+	 * dshfkshdkhskfhdsfsdfdsfsdfsdfsdfsdfs
 	 * @param args
 	 * @throws IOException
 	 */
