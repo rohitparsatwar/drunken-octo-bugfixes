@@ -9,7 +9,7 @@ public class CopyBytes {
 
 	/**
 	 * ajsdkashdkja
-	 * @param args
+	 * @param argsasadasdasdads
 	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException {
